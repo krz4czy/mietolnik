@@ -1,0 +1,15 @@
+{
+  "name": "Puddy",
+  "short_name": "Puddy",
+  "description": "A pocket of putty, pops, and tiny machines.",
+  "start_url": "/mietolnik/",
+  "scope": "/mietolnik/",
+  "display": "standalone",
+  "background_color": "#161018",
+  "theme_color": "#161018",
+  "icons": [
+    { "src": "/mietolnik/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/mietolnik/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/mietolnik/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

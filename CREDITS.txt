@@ -1,0 +1,33 @@
+Puddy (Miętolnik) — third-party credits
+==========================================
+
+Sounds
+------
+Kenney Interface Sounds 1.0
+Author: Kenney (www.kenney.nl)
+Licence: Creative Commons Zero (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+Files: click.mp3, chime.mp3, drop.mp3, glass.mp3, pluck.mp3,
+       scratch.mp3, zip.mp3, switch.mp3, bell.mp3, open.mp3
+(short mono MP3 trims of the original WAV files)
+
+Kenney Impact Sounds
+Author: Kenney (www.kenney.nl)
+Licence: Creative Commons Zero (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+Files: snow.mp3 (from footstep_snow_000), metal.mp3 (from impact_metal_light_000)
+(short mono MP3 trims of the original OGG files)
+
+Credit to Kenney is requested but not required by CC0.
+
+Code
+----
+Matter.js 0.20.0
+Copyright (c) Liam Brummitt and contributors
+Licence: MIT
+https://github.com/liabru/matter-js
+Vendored at vendor/matter.min.js
+Loaded only when Kulki, Kołyska, or Domino opens, so the home screen stays light.
+Full licence text: vendor/LICENSE-matter.txt
+
+No runtime CDN. Everything above is stored in this repository and works offline.

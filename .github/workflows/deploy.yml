@@ -28,7 +28,8 @@ jobs:
       - name: Assemble static site
         run: |
           mkdir -p _site
-          cp index.html _site/index.html
+          cp index.html app.js manifest.webmanifest apple-touch-icon.png CREDITS.txt _site/
+          cp -r icons sounds vendor _site/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

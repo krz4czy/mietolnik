@@ -1,5 +1,7 @@
-# Miętolnik
+# Puddy
 
-45 kieszonkowych zabawek dotykowych. Działają w przeglądarce, offline, bez konta i bez sieci.
+Miętolnik. A pocket of putty, pops, and tiny machines.
 
 https://krz4czy.github.io/mietolnik/
+
+Offline, no account. Sounds and Matter.js are vendored; see CREDITS.txt.
